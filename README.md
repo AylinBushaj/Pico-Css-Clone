@@ -1,1 +1,1 @@
-Hakan Yalçınkaya'nın eğitimi kapsamında Classless Css ile proje oluşturuldu.
+Hakan Yalçınkaya'nın eğitimi kapsamında Classless Css ile Pico Css Clone projesi oluşturuldu.
