@@ -1,0 +1,1 @@
+Hakan Yalçınkaya'nın eğitimi kapsamında Classless Css ile proje oluşturuldu.
